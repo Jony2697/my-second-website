@@ -3,6 +3,7 @@ h3{
     text-align: center;
     text-decoration: dashed;
     font-style: italic;
+    padding: 5px;
 }
 p{
    background-color: brown;
@@ -10,4 +11,22 @@ p{
    border: 2px solid darkcyan;
    padding: 10px; 
    height: 100px;
+}
+.header ul li{
+    display: inline;
+    padding: 5px;
+    background-color: aquamarine;
+    margin-left: 40px;
+    
+
+}
+.header ul{
+    margin-left: 50%;
+    text-decoration: none;
+}
+.social{
+    text-decoration:none;
+    text-transform: capitalize;
+    color: black;
+    font-weight: bold;
 }
